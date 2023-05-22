@@ -46,20 +46,21 @@ Mohd Arshad | [mdarshad1000](https://github.com/mdarshad1000)
 
 Saad Anzar | [SaadAnzar](https://github.com/SaadAnzar)
 
+
 ## Getting Started
 
-# 1. Clone the repository
+### 1. Clone the repository
 
-`git clone https://github.com/SaadAnzar/paperbrain`
+```git clone https://github.com/SaadAnzar/paperbrain```
 
-# 2. Change the working directory
+### 2. Change the working directory
 
-`cd paperbrain`
+```cd paperbrain```
 
-# 3. Install dependencies
+### 3. Install dependencies
 
-`npm install`
+```npm install```
 
-# 4. Run the app
+### 4. Run the app
 
-`npm run dev`
+```npm run dev```
