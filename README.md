@@ -51,7 +51,7 @@ Saad Anzar | [SaadAnzar](https://github.com/SaadAnzar)
 
 ### 1. Clone the repository
 
-```git clone https://github.com/SaadAnzar/paperbrain```
+```git clone https://github.com/SaadAnzar/paperbrain.git```
 
 ### 2. Change the working directory
 
