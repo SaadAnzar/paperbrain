@@ -1,38 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+ PaperBrain
 
-## Getting Started
+ <img src="https://user-images.githubusercontent.com/83456083/215092669-6d56993d-3a7b-441c-8b56-48decb3b32bf.png" width="40" height="40" />
 
-First, run the development server:
+</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+[YouTube](https://www.youtube.com/watch?v=JnMSISVfTYc)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[PaperBrain](https://www.paperbrain.study)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## About
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p> People publish a lot of fascinating research out to the world, yet the tools to consume this research are quite primitive. It is also really hard to understand the research papers. </p>
+  
+<p>PaperBrain is the go-to platform for accessing and understanding research papers. We provide a fascinating interface for users to search for papers and return a list of papers with their abstracts and a direct pdf link in a prettified format.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Since research papers are generally difficult to understand, we have added a explain paper feature leveraging a GPT-3 model provided by Open AI. Users can simply copy-paste an excerpt and our primed model will translate it into an easy and understandable form.
 
-## Learn More
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+<p>
+PaperBrain also allows you to upload your own papers and interact with the in-built GPT assistant to better streamline your research understanding process.
+</p>
+  
+## Built Using
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Tech           | Link                                                 |
+| -------------- | ---------------------------------------------------- |
+| Front End      | [Next.js](https://nextjs.org/)                       |
+| Back End       | [Flask](https://flask.palletsprojects.com/en/2.2.x/) |
+| Explain Paper Bot          | [GPT-3](https://openai.com/api/)             |
+| Styles       | [Tailwind CSS](https://tailwindcss.com/docs/)        |
+| Storage Bucket | [Firebase](https://www.firebase.google.com/)         |
+| Hosting        | [Vercel](https://vercel.com/)                        |
+| Authentication | [Auth0](https://www.auth0.com/)                      |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Contributors
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Name | GitHub |
+| ---- | ------ |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Nawed Ali | [nawed2611](https://github.com/nawed2611)
+
+Mohd Arshad | [mdarshad1000](https://github.com/mdarshad1000)
+
+Saad Anzar | [SaadAnzar](https://github.com/SaadAnzar)
